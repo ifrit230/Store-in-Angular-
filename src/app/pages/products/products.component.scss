@@ -1,0 +1,13 @@
+
+/*Ojo con el display WRAP también ajusta en diferentes columnas 
+y wrap lo ajusta según el tamaño de pantalla*/
+section.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+
+    
+}
